@@ -32,6 +32,9 @@
 103.158.223.171 panasonicsmarttv.wowtv.com
 2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 panasonicsmarttv.wowtv.com
 
+# Sweet.tv: Orsay(???), Philips(???), TCL(???), Hisense (???), LG(???), Samsung(???), Panasonic(???), VIDAA(???)
+103.158.223.171 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv
+2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv
 
 # Samsung Tizen: QubNews ???
 103.158.223.171 qubtv.ro
