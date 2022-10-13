@@ -32,14 +32,6 @@
 103.158.223.171 panasonicsmarttv.wowtv.com
 2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 panasonicsmarttv.wowtv.com
 
-# Sweet.tv: Orsay(???), Tizen(???), Philips(???), TCL(???), Hisense (???), LG(???), Samsung(???), Panasonic(???), VIDAA(???)
-103.158.223.171 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv
-2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv
-
-# Samsung Tizen: QubNews ???
-103.158.223.171 qubtv.ro
-2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 qubtv.ro
-
-# Test 
-103.158.223.171 osb-appsorsay.samsungqbe.com
-2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 osb-appsorsay.samsungqbe.com
+# Sweet.tv: Orsay(???), Tizen(???), Philips(???), TCL(???), Hisense (???), LG(???), Samsung(???), Panasonic(???), VIDAA(???), Sony(???)
+103.158.223.171 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv sony.sweet.tv
+2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv sony.sweet.tv
