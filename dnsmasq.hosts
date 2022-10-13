@@ -8,9 +8,9 @@
 
 # ^ - Need Web-server config adaptation
 
-# Oll.tv: LG, Samsung
-103.158.223.171 lg.devices.oll.tv tizen.devices.oll.tv webos-devices.oll.tv
-2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 lg.devices.oll.tv tizen.devices.oll.tv webos-devices.oll.tv
+# Oll.tv: LG, Samsung Orsay, Tizen, Panasonic, Sony, Hisense
+103.158.223.171 lg.devices.oll.tv tizen.devices.oll.tv webos-devices.oll.tv samsung.devices.oll.tv panasonic.devices.oll.tv sony.devices.oll.tv hisense.devices.oll.tv
+2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 lg.devices.oll.tv tizen.devices.oll.tv webos-devices.oll.tv samsung.devices.oll.tv panasonic.devices.oll.tv sony.devices.oll.tv hisense.devices.oll.tv
 
 # YuppTV: Samsung Orsay^(100%), LG(50%)
 103.158.223.171 www.yupptv.com d3lyihdno7nd8k.cloudfront.net
@@ -32,7 +32,7 @@
 103.158.223.171 panasonicsmarttv.wowtv.com
 2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 panasonicsmarttv.wowtv.com
 
-# Sweet.tv: Orsay(???), Philips(???), TCL(???), Hisense (???), LG(???), Samsung(???), Panasonic(???), VIDAA(???)
+# Sweet.tv: Orsay(???), Tizen(???), Philips(???), TCL(???), Hisense (???), LG(???), Samsung(???), Panasonic(???), VIDAA(???)
 103.158.223.171 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv
 2a0f:5707:aa81:ffff:ffff:ffff:6c77:1846 orsay.sweet.tv philips.sweet.tv tcl.sweet.tv hisense.sweet.tv lg.sweet.tv samsung.sweet.tv panasonic.sweet.tv vidaa.sweet.tv
 
