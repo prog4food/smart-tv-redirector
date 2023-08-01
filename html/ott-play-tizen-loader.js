@@ -1,4 +1,5 @@
-startApp = function(){}; // for gw.smart-stb.tv
+var startApp = function(){};  // for gw.smart-stb.tv
+var bootstrap = function(){};  // for RedBullTV??? (https://www.youtube.com/watch?v=V5MD0Zwhfb0)
 
 var host = 'ott-play.com', ott_device = 'samsung/tizen';
 var client_can_https;
